@@ -2,9 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-
-So the course copied in some Hipster foolishness.
-
-Just some more foolish text
+Something New
